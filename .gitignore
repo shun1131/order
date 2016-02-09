@@ -1,0 +1,6 @@
+/log/*
+!/log/.keep
+/tmp
+
+/.vagrant
+/vendor/bundle

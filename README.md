@@ -13,3 +13,9 @@
 - todoリストを並び替えられる
 
 ## Getting Started
+
+```
+$ git clone git@github.com:noonarai/order.git
+$ cd order
+$ vagrant up
+```
